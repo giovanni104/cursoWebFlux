@@ -34,7 +34,7 @@ public class SpringBootReactorApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
-		ejemploZipWithRangos();
+		ejemploIterable();
 
 	}
 
